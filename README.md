@@ -1,4 +1,17 @@
 # README
 
+## Hadi Buraya
+
+-Hadi yarışması hakkında herşeye buradan ulaşabilirsiniz.
+
 **eklenecekler**
-- mailchimp ekleme ya da farklı bir şey
+
+- [ ] Mailchimp ekleme ya da farklı bir şey
+- [ ] Anlık soru tahminlerini eklenmesi
+- [ ] Admin eklenmesi
+
+## Uygulama içi ekran görüntüleri
+
+<p align="center">
+  <img id="awesome" src="screenshots/11.png" alt="Logo AAV">
+</p>
